@@ -59,8 +59,8 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 
 ```
-<![image](https://github.com/user-attachments/assets/41af2e61-94d9-4644-8dcb-5a7ab1904dc3)
-">
+<![image](https://github.com/user-attachments/assets/b89d4f47-70b1-4ad9-9435-ce22c028996a)
+>
 
 ---
 
